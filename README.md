@@ -68,7 +68,7 @@ dotenv - To manage environment variables.
 nodemon - For auto-reloading during development.
 
 🎥 **Video**
-📌 A walkthrough video demonstrating the API functionality is available here:
+📌 A walkthrough video demonstrating the API functionality is available here: https://youtu.be/MNnurUwl0qk
 
 🤝 **Contributing**
 Contributions are welcome! Follow these steps to contribute:
